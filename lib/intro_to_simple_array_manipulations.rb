@@ -1,3 +1,3 @@
-def push_method(array,element)
+def using_push(array,element)
   array.push ("#{element}")
 end
